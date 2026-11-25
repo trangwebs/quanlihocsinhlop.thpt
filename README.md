@@ -1,2 +1,2 @@
-# quanlihocsinhlop.thpt.gvcn
+# quanlihocsinhlop.thpt
 Quản lí Học Sinh (GVCN) 
